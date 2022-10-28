@@ -1,0 +1,5 @@
+![main](https://user-images.githubusercontent.com/71080020/198473227-fdf60079-9b1a-407c-aea5-7bce8d0a93d4.png)
+![метод лівого прямокутника](https://user-images.githubusercontent.com/71080020/198473275-2fb1f04a-7f59-4d7e-b16e-675ef6e3f441.png)
+![метод правого прямокутника](https://user-images.githubusercontent.com/71080020/198473299-15b466db-71f3-4a1a-a93b-010be9b1ca20.png)
+![метод сімпсона](https://user-images.githubusercontent.com/71080020/198473324-0176b6f9-6d1c-49eb-bfe7-53b376e0f7ea.png)
+![метод трапеції](https://user-images.githubusercontent.com/71080020/198473350-bc6236ae-c7e1-4884-8ff8-b9c8bfc20869.png)
